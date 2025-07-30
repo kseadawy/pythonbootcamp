@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# IDE (PyCharm)
+.idea/
+*.iml
+*.swp
+
+# Environment variables
+.env
+.env.local
+
+# Logs and databases
+*.log
+*.sqlite3
